@@ -74,7 +74,7 @@ body {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    background: #80e5ff;
   }
   
   nav {
@@ -106,7 +106,7 @@ body {
     color: #cccccc;
     text-align: center;
     background: #666666;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #80e5ff;
     height: 50px;
   }
   
@@ -164,7 +164,7 @@ body {
     line-height: 30px;
     color: #ffffff;
     text-align: center;
-    background: #4aaaa5;
+    background: #80e5ff;
     border-bottom: 0;
   }
   
@@ -212,7 +212,7 @@ body {
     font-size: 18px;
     color: #ffffff;
     cursor: pointer;
-    background: #4aaaa5;
+    background: #80e5ff;
     border: 0 none;
   }
   
