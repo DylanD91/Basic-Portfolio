@@ -10,6 +10,7 @@ body {
   
 }
 
+
 * {
   box-sizing: border-box;
 }
@@ -218,4 +219,13 @@ input[type=submit] {
   cursor: pointer;
   background: #4aaaa5;
   border: 0 none;
+}
+
+a.button {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+
+  text-decoration: none;
+  color: initial;
 }
