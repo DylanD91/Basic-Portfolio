@@ -3,8 +3,11 @@ body {
   font-size: 18px;
   line-height: 34px;
   color:black;
-  background-image: url(https://cdn1.vectorstock.com/i/1000x1000/69/60/floral-graphic-seamless-background-pastel-blue-vector-2096960.jpg);
-  
+  background-image: url(https://images.unsplash.com/photo-1546050680-d4305dcff705?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   
 }
 
@@ -105,12 +108,13 @@ footer {
   padding: 30px 0;
   clear: both;
   font-size: 12px;
-  color: #ffffff;
+  color: black;
   color: #cccccc;
   text-align: center;
-  background: #666666;
-  border-top: 8px solid #4aaaa5;
+  background: white;
+  border-top: 8px solid white;
   height: 50px;
+  
 }
 
 h3, h2 {
