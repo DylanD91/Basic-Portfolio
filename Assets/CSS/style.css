@@ -3,10 +3,8 @@ body {
   font-size: 18px;
   line-height: 34px;
   color:black;
-  background: #00c9ff; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #00c9ff, #92fe9d); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #00c9ff, #92fe9d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+  background-image: url(https://cdn1.vectorstock.com/i/1000x1000/69/60/floral-graphic-seamless-background-pastel-blue-vector-2096960.jpg);
+  
   
 }
 
