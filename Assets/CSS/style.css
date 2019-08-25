@@ -3,11 +3,16 @@ body {
   font-size: 18px;
   line-height: 34px;
   color:black;
+  
+background: -webkit-linear-gradient(180deg, rgb(88, 255, 239), rgb(86, 167, 239));
+background: linear-gradient(180deg, rgb(88, 255, 239), rgb(86, 167, 239));
+/* 
+
   background-image: url(https://images.unsplash.com/photo-1546050680-d4305dcff705?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: fixed; */
   
 }
 
